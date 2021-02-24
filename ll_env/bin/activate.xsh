@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/Hiatt/Documents/GitHub/python-crash-course/django-learning_log/learning_log/ll_env"
+$VIRTUAL_ENV = r"/Users/Hiatt/Documents/GitHub/django-learning_log/ll_env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

@@ -1,4 +1,4 @@
-#!/Users/Hiatt/Documents/GitHub/python-crash-course/django-learning_log/learning_log/ll_env/bin/python
+#!/Users/Hiatt/Documents/GitHub/django-learning_log/ll_env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
